@@ -14,7 +14,7 @@ $(function() {
 	// Countdown
 	$('.countdown').downCount({
 		date: '02/26/2021 22:00:00',
-		offset: +10
+		offset: +0
 	});			
     
 });
